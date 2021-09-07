@@ -1,0 +1,20 @@
+total 88
+drwxr-xr-x  4 whitelizard whitelizard  4096 Mar  9 16:45 .
+drwxr-xr-x 12 whitelizard whitelizard  4096 Feb 23 16:55 ..
+-rwxr-xr-x  1 whitelizard whitelizard 17264 Mar  8 21:37 Exe
+-rw-r--r--  1 whitelizard whitelizard  1591 Mar  8 19:35 Exe_10.c
+-rw-r--r--  1 whitelizard whitelizard  2025 Mar  8 21:37 Exe_11.c
+-rw-r--r--  1 whitelizard whitelizard   693 Mar  3 14:37 Exe_1.c
+-rw-r--r--  1 whitelizard whitelizard  2364 Mar  3 14:59 Exe_2a.c
+-rw-r--r--  1 whitelizard whitelizard   821 Mar  5 17:21 Exe_3.c
+-rw-r--r--  1 whitelizard whitelizard   434 Mar  5 17:35 Exe_4a.c
+-rw-r--r--  1 whitelizard whitelizard   506 Mar  5 17:44 Exe_4b.c
+-rw-r--r--  1 whitelizard whitelizard   578 Mar  5 17:52 Exe_5.c
+-rw-r--r--  1 whitelizard whitelizard  1541 Mar  5 18:42 Exe_6a.c
+-rw-r--r--  1 whitelizard whitelizard   609 Mar  5 18:59 Exe_7.c
+drwxr-xr-x  2 whitelizard whitelizard  4096 Mar  8 19:37 Exe8
+-rw-r--r--  1 whitelizard whitelizard   968 Mar  6 13:50 Exe_8.c
+-rw-r--r--  1 whitelizard whitelizard  1659 Mar  6 20:15 Exe_9.c
+-rw-------  1 whitelizard whitelizard   506 Mar  8 19:37 File10.txt
+-rw-------  1 whitelizard whitelizard     0 Mar  9 16:45 t.txt
+drwxr-xr-x  2 whitelizard whitelizard  4096 Mar  8 19:38 .vscode

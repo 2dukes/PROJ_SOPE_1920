@@ -1,0 +1,10 @@
+My child is going to execute command "ls -laR Exe8"
+Exe8:
+total 8
+drwxr-xr-x 2 whitelizard whitelizard 4096 Mar  8 19:37 .
+drwxr-xr-x 3 whitelizard whitelizard 4096 Mar  8 19:37 ..
+-rw-r--r-- 1 whitelizard whitelizard    0 Mar  8 19:37 text1.txt
+-rw-r--r-- 1 whitelizard whitelizard    0 Mar  8 19:37 text2.txt
+-rw-r--r-- 1 whitelizard whitelizard    0 Mar  8 19:37 text3.txt
+-rw-r--r-- 1 whitelizard whitelizard    0 Mar  8 19:37 text4.txt
+-rw-r--r-- 1 whitelizard whitelizard    0 Mar  8 19:37 text5.txt
